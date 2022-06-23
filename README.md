@@ -1,11 +1,10 @@
 ## 👋 Hi, I’m Yogesh Jangra 
 
-- 🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/flutter-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=blue) & ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow)
-
-- 🧩 Other Languages Learned By Me ![c](https://img.shields.io/badge/++language-%2314354C.svg?style=for-the-badge&logo=c&logoColor=pink) & ![dart](https://img.shields.io/badge/dart-%2314354C.svg?style=for-the-badge&logo=dart&logoColor=skyblue)
-
-- 💞️ I’m also looking to collaborate on Web Development Projects ![website](https://img.shields.io/badge/website-%2314354C.svg?style=for-the-badge&logo=namecheap&logoColor=orange)
-      
+🌍  I'm based in Kharkhoda, Haryan
+🚀  I'm currently working on WebDevelopment 
+🧠  I'm learning Backend Development and Flutter App development
+🧠  I know basic of Java , Python , C , C++ , JavaScript 
+🤝  I'm open to collaborating on Web Designing Projects
 - 😍 Total Profile Visits ![Profile views](https://gpvc.arturio.dev/Yogesh1628)  
 - 📫 How to reach me : iyogeshjangra@gmail.com
 
