@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Yogesh Jangra 
 - 🌍  I'm based in Kharkhoda, Haryana
-- 🚀  I'm currently working on WebDevelopment 
+- 🚀  I solved 250+ leetcode DSA problems 
 - 🧠  I'm learning Backend Development and Flutter App development
-- 🧠  I know basic of Java , Python , C , C++ , JavaScript 
+- 🧠  I know Java , Python , C , C++ , JavaScript 
 - 🤝  I'm open to collaborating on Web Designing Projects
 - 😍 Total Profile Visits ![Profile views](https://gpvc.arturio.dev/Yogesh1628)  
 - 📫 How to reach me : iyogeshjangra@gmail.com
