@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Yogesh Jangra 
 - 🌍  I'm based in Kharkhoda, Haryana
-- 🚀  I solved 350+ leetcode DSA problems 
+- 🚀  I solved over 500+ DSA problems 
 - 🧠  I'm learning Backend Development and Flutter App development
 - 🧠  I know Java , Python , C , C++ , JavaScript 
 - 🤝  I'm open to collaborating on Web Designing Projects
