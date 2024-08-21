@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Yogesh Jangra 
-- 🌍  I'm based in Kharkhoda, Haryana
-- 🚀  I solved over 500+ DSA problems 
-- 🧠  I'm learning Backend Development and Flutter App development
-- 🧠  I know Java , Python , C , C++ , JavaScript 
+- 🌍  I'm currently working as a Dev Intern at Engati 
+- 🚀  I solved over 800+ DSA problems 
+- 🧠  I am a Full Stack Developer
+- 🧠  I know Java , Python , C , C++ , JavaScript , React Js , Express Js , Node Js , DynamoDb , MySQL , Spring Boot .
 - 🤝  I'm open to collaborating on Web Designing Projects
 - 😍 Total Profile Visits ![Profile views](https://gpvc.arturio.dev/Yogesh1628)  
 - 📫 How to reach me : iyogeshjangra@gmail.com
