@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m Yogesh Jangra 
-- 🌍  I'm currently working as a Dev Intern at Engati 
-- 🚀  I solved over 800+ DSA problems 
+- 🌍  Ex SDE intern at Engati Technologies (Bangalore) 
+- 🚀  I solved over 850+ DSA problems 
 - 🧠  I am a Full Stack Web Developer
-- 🧠  I know Java , Python , C , C++ , JavaScript , React Js , Express Js , Node Js , DynamoDb , MySQL , Spring Boot .
-- 🤝  I'm open to collaborating on Web Designing Projects
+- 🧠  I have good knowledge of Java , Python , C , C++ , JavaScript , React Js , Express Js , Node Js , DynamoDb , MySQL , Spring Boot .
+- 🤝  I'm open to collaborating on Web Designing Projects.
 - 😍 Total Profile Visits ![Profile views](https://gpvc.arturio.dev/Yogesh1628)  
 - 📫 How to reach me : iyogeshjangra@gmail.com
 
