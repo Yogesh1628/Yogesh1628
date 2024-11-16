@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Yogesh Jangra 
 - 🌍  Ex SDE intern at Engati Technologies (Bangalore) 
-- 🚀  I solved over 850+ DSA problems 
+- 🚀  I solved over 950+ DSA problems 
 - Leetcode: https://leetcode.com/u/Yogesh_007/
 - 🧠  I am a Full Stack Web Developer
 - 🧠  I have good knowledge of Java, Python, C, C++, JavaScript, React Js, Express Js, Node Js, DynamoDb, MySQL, Spring Boot.
