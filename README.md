@@ -40,9 +40,8 @@
 ---
 
 ## 🌟 **Achievements**
-- 🏆 Solved **950+ DSA problems** across platforms.  
+- 🏆 Solved **1000+ DSA problems across many coding platforms , "Knight" on Leetcode** .  
 - 🚀 Contributed to several **full-stack projects** using **MERN stack**, **Spring Boot**, and **SQL/NoSQL databases**.  
-- 💻 Open to collaborations on **Web Development** and **Algorithmic problem solving**.
 
 ---
 
