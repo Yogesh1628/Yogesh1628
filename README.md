@@ -1,9 +1,7 @@
 
 
 # 👋 Hi, I’m **Yogesh Jangra**
-
-🌍 **SDE Intern** at **Engati Technologies** (Bangalore)  
-🚀 **DSA Enthusiast** | Solved **950+ problems** on **[LeetCode](https://leetcode.com/u/Yogesh_007/)**  
+🚀 **DSA Enthusiast** | Solved **1000+ problems** on **[LeetCode](https://leetcode.com/u/Yogesh_007/)**  
 🧑‍💻 **Full Stack Web Developer**  
 
 💻 **Languages & Tools**:  
