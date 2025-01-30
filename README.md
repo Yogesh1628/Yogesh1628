@@ -1,8 +1,10 @@
 
 
-# 👋 Hi, I’m **Yogesh Jangra**
+# 👋 Hi, I’m **Yogesh Jangra**  
+### 💼 **Software Development Intern at ZFunds**
+  
 🚀 **DSA Enthusiast** | Solved **1000+ problems** on **[LeetCode](https://leetcode.com/u/Yogesh_007/)**  
-🧑‍💻 **Full Stack Web Developer**  
+🧑‍💻 **Full-Stack Web Developer** | Passionate about building scalable and efficient applications
 
 💻 **Languages & Tools**:  
 
