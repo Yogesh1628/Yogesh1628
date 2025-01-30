@@ -55,9 +55,4 @@
 
 ---
 
-## 😍 **Fun Fact**
-> "I believe in learning by doing, and every challenge is an opportunity to grow!"  
-
-![Profile views](https://gpvc.arturio.dev/Yogesh1628)
-
 
