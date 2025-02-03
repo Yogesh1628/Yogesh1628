@@ -1,8 +1,10 @@
 
 
 # 👋 Hi, I’m **Yogesh Jangra**  
-### 💼 **Software Development Intern at ZFunds**
-### **Ex - Software Development Intern at Engati Technologies**
+### 💻 **Software Development Intern at ZFunds**   
+### 💡 **Former Software Development Intern at Engati Technologies**  
+🚀 Experienced in working on innovative tech projects, learning new technologies, and collaborating in fast-paced environments.
+
   
 🚀 **DSA Enthusiast** | Solved **1000+ problems** on **[LeetCode](https://leetcode.com/u/Yogesh_007/)**  
 🧑‍💻 **Full-Stack Web Developer** | Passionate about building scalable and efficient applications
