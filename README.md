@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I’m **Yogesh Jangra**  
-### 💻 **Upcoming Engineering Intern at Synopsys** 
+### 💻 **Tech Engineering Intern at Synopsys** 
 ### 💡 **Ex-Software Development Intern at ZFunds**   
 ### 💡 **Ex-Software Development Intern at Engati Technologies**  
 🚀 Experienced in working on innovative tech projects, learning new technologies, and collaborating in fast-paced environments.
