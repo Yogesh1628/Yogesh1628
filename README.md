@@ -1,16 +1,25 @@
+# 👋 Hi, I'm **Yogesh Jangra**
 
+### 🚀 **Software Engineer @ BrowserStack**
+### 💻 **Ex-Tech Engineering Intern @ Synopsys**
+### 💡 **Ex-Software Development Intern @ ZFunds**
+### 💡 **Ex-Software Development Intern @ Engati Technologies**
 
-# 👋 Hi, I’m **Yogesh Jangra**  
-### 💻 **Tech Engineering Intern at Synopsys** 
-### 💡 **Ex-Software Development Intern at ZFunds**   
-### 💡 **Ex-Software Development Intern at Engati Technologies**  
-🚀 Experienced in working on innovative tech projects, learning new technologies, and collaborating in fast-paced environments.
+Experienced in building **robust, scalable, and user-friendly web applications** in fast-paced environments. Passionate about innovation, continuous learning, and clean code.
 
-  
-🚀 **DSA Enthusiast** | Solved **1000+ problems** on **[LeetCode](https://leetcode.com/u/Yogesh_007/)**  
-🧑‍💻 **Full-Stack Web Developer** | Passionate about building scalable and efficient applications
+---
 
-💻 **Languages & Tools**:  
+## 🛠️ Tech Stack & Expertise
+
+| Category | Languages & Frameworks | Databases & Tools |
+| :--- | :--- | :--- |
+| **Backend** | Java, Python, C++, Node.js, **Spring Boot** | **MongoDB**, **PostgreSQL**, MySQL, Git, GitHub |
+| **Frontend** | **JavaScript**, **React** | VS Code |
+| **Core** | **Data Structures & Algorithms (DSA)**, **Object-Oriented Programming (OOPs)** | |
+
+<br>
+
+**Languages & Tools (Shields)**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,35 +37,37 @@
 ![OOPS](https://img.shields.io/badge/OOPS-%233776AB.svg?style=for-the-badge&logo=data:image/svg+xml;base64,<encoded-logo>)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+## 🏆 Achievements & Focus
+
+* **DSA Enthusiast:** Solved **1000+ problems** on LeetCode. Achieved **"Knight"** status.
+    * [**My LeetCode Profile**](https://leetcode.com/u/Yogesh_007/)
+* **Full-Stack Web Developer:** Passionate about building scalable and efficient applications, contributing to several **full-stack projects** (MERN stack, Spring Boot, SQL/NoSQL).
+* **Open for Collaboration:** Interested in collaborating on new and exciting **Web Designing Projects**.
 
 ---
 
-## 🧠 **What I Do**
-- 🌟 Building robust, scalable, and user-friendly web applications.
-- 💡 Strong problem-solving skills and expertise in **Data Structures & Algorithms**.
-- 🤝 Open to collaborating on **Web Designing Projects**.  
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yogesh1628&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Yogesh's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh1628&layout=compact&theme=radical&hide_border=true" alt="Yogesh's Top Languages" />
+</p>
 
 ---
 
-## 📫 **How to Reach Me**
-- ✉️ Email: **[iyogeshjangra@gmail.com](mailto:iyogeshjangra@gmail.com)**  
-- 🌐 Social Handles:  
-  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogesh1628)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-jangra-03090a224/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iyogeshjangra/)  
+## 📫 Connect with Me
 
----
+| Platform | Handle |
+| :--- | :--- |
+| **Email** | [iyogeshjangra@gmail.com](mailto:iyogeshjangra@gmail.com) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-jangra-03090a224/) |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogesh1628) |
+| **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iyogeshjangra/) |
 
-## 📈 **GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogesh1628&theme=radical&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh1628&layout=compact&theme=radical&hide_border=true)  
+<br>
 
----
-
-## 🌟 **Achievements**
-- 🏆 Solved **1000+ DSA problems across many coding platforms , "Knight" on Leetcode** .  
-- 🚀 Contributed to several **full-stack projects** using **MERN stack**, **Spring Boot**, and **SQL/NoSQL databases**.  
-
----
-
-
+<p align="center">
+    Made with ❤️ by Yogesh Jangra
+</p>
